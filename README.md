@@ -1,0 +1,1 @@
+# Style Envira Gallery Tags
