@@ -1,0 +1,16 @@
+/* Style the tags list */
+ul.envira-tags-filter-list { }
+
+/* Style the tags list-items */
+li.envira-tag-filter,
+li.envira-tags-filter { }
+
+/* Style the tags link */
+li.envira-tag-filter .envira-tags-filter-link,
+li.envira-tags-filter .envira-tags-filter-link { }
+
+/* Style the active tags link */
+li.envira-tags-filter a.envira-tags-filter-active { }
+
+/* Style a specific tags list-item by tag slug, this example targets the 'All' tags item */
+li#envira-tag-filter-all { }
